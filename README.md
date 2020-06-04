@@ -7,11 +7,11 @@ The  main  goal  of  this  project  was  to  design  and  build  asingle  leg  t
 
 
 Videos of the project 
--Hexapod 150N ABS Linera Load: https://youtu.be/3N0--9uB0ZQ
--Hexapod 30N ABS Linear Load: https://youtu.be/XNTOAyoOz1A
--Hexapod 30N ABS Axial Load: https://youtu.be/DyvUvr6EpBE
--Hexapod 150N Aluminium Foot Linear Load: https://youtu.be/gAU8AoaYmio
--Hexapod Leg Animation: https://youtu.be/sJPqHgT1XRM
--Hexapod Leg Animation Explode Parts: https://youtu.be/MlwZA7ifQns
+Hexapod 150N ABS Linera Load: https://youtu.be/3N0--9uB0ZQ  
+Hexapod 30N ABS Linear Load: https://youtu.be/XNTOAyoOz1A  
+Hexapod 30N ABS Axial Load: https://youtu.be/DyvUvr6EpBE  
+Hexapod 150N Aluminium Foot Linear Load: https://youtu.be/gAU8AoaYmio  
+Hexapod Leg Animation: https://youtu.be/sJPqHgT1XRM  
+Hexapod Leg Animation Explode Parts: https://youtu.be/MlwZA7ifQns  
 
 
