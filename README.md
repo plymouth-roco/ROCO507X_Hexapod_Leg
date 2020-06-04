@@ -15,3 +15,11 @@ Hexapod Leg Animation: https://youtu.be/sJPqHgT1XRM
 Hexapod Leg Animation Explode Parts: https://youtu.be/MlwZA7ifQns  
 
 
+![Hexapod Leg](https://github.com/plymouth-roco/ROCO507X_Hexapod_Leg/blob/master/Images%20of%20Model%20and%20FEA/Leg%20render%20-%20Copy.png)
+
+![Hexapod](https://github.com/plymouth-roco/ROCO507X_Hexapod_Leg/blob/master/Images%20of%20Model%20and%20FEA/Hexapod_Body_V3.jpg)
+
+![Hexapod Leg Dampener](https://github.com/plymouth-roco/ROCO507X_Hexapod_Leg/blob/master/Images%20of%20Model%20and%20FEA/Foot%20with%20linear%20dampener.PNG)
+
+
+
