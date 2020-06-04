@@ -21,5 +21,7 @@ Hexapod Leg Animation Explode Parts: https://youtu.be/MlwZA7ifQns
 
 ![Hexapod Leg Dampener](https://github.com/plymouth-roco/ROCO507X_Hexapod_Leg/blob/master/Images%20of%20Model%20and%20FEA/Foot%20with%20linear%20dampener.PNG)
 
+![Hexapod Leg](https://github.com/plymouth-roco/ROCO507X_Hexapod_Leg/blob/master/CAD%20models/Hexapod%20Leg%20FEA%20Sheer%20Exp%20v6.stl)
+
 
 
